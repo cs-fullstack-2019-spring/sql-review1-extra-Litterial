@@ -17,9 +17,9 @@
       <IntrospectionStateNumber>987</IntrospectionStateNumber>
       <Current>1</Current>
       <Visible>1</Visible>
-      <Relations>sequence|table|16395|16397|1
-sequence|table|16507|16509|1
+      <Relations>sequence|table|16507|16509|1
 sequence|table|16515|16517|1
+sequence|table|16395|16397|1
 </Relations>
     </database>
     <database id="4" parent="1" name="sql-aggregates-cw">
